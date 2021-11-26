@@ -210,12 +210,14 @@ exports[`Checkbox disabled can be disabled 1`] = `
     className=""
   >
     <Text
+      a11yDescriptor={false}
       block={false}
       bold={false}
       invert={false}
       size="base"
     >
       <Text__StyledText
+        a11yDescriptor={false}
         block={false}
         bold={false}
         inheritColor={true}
@@ -223,6 +225,7 @@ exports[`Checkbox disabled can be disabled 1`] = `
         size="base"
       >
         <StyledComponent
+          a11yDescriptor={false}
           block={false}
           bold={false}
           forwardedComponent={
@@ -880,12 +883,14 @@ exports[`Checkbox disabled can be disabled and checked 1`] = `
     className=""
   >
     <Text
+      a11yDescriptor={false}
       block={false}
       bold={false}
       invert={false}
       size="base"
     >
       <Text__StyledText
+        a11yDescriptor={false}
         block={false}
         bold={false}
         inheritColor={true}
@@ -893,6 +898,7 @@ exports[`Checkbox disabled can be disabled and checked 1`] = `
         size="base"
       >
         <StyledComponent
+          a11yDescriptor={false}
           block={false}
           bold={false}
           forwardedComponent={
@@ -1554,12 +1560,14 @@ exports[`Checkbox error can have an error feedback state 1`] = `
     className="c0"
   >
     <Text
+      a11yDescriptor={false}
       block={false}
       bold={false}
       invert={false}
       size="base"
     >
       <Text__StyledText
+        a11yDescriptor={false}
         block={false}
         bold={false}
         inheritColor={true}
@@ -1567,6 +1575,7 @@ exports[`Checkbox error can have an error feedback state 1`] = `
         size="base"
       >
         <StyledComponent
+          a11yDescriptor={false}
           block={false}
           bold={false}
           forwardedComponent={
@@ -2228,12 +2237,14 @@ exports[`Checkbox error can have an error message 1`] = `
     className="c0"
   >
     <Text
+      a11yDescriptor={false}
       block={false}
       bold={false}
       invert={false}
       size="base"
     >
       <Text__StyledText
+        a11yDescriptor={false}
         block={false}
         bold={false}
         inheritColor={true}
@@ -2241,6 +2252,7 @@ exports[`Checkbox error can have an error message 1`] = `
         size="base"
       >
         <StyledComponent
+          a11yDescriptor={false}
           block={false}
           bold={false}
           forwardedComponent={
@@ -5455,12 +5467,14 @@ Array [
             className=""
           >
             <Text
+              a11yDescriptor={false}
               block={false}
               bold={false}
               invert={false}
               size="base"
             >
               <Text__StyledText
+                a11yDescriptor={false}
                 block={false}
                 bold={false}
                 inheritColor={true}
@@ -5468,6 +5482,7 @@ Array [
                 size="base"
               >
                 <StyledComponent
+                  a11yDescriptor={false}
                   block={false}
                   bold={false}
                   forwardedComponent={
@@ -5542,12 +5557,14 @@ Array [
     className=""
   >
     <Text
+      a11yDescriptor={false}
       block={false}
       bold={false}
       invert={false}
       size="base"
     >
       <Text__StyledText
+        a11yDescriptor={false}
         block={false}
         bold={false}
         inheritColor={true}
@@ -5555,6 +5572,7 @@ Array [
         size="base"
       >
         <StyledComponent
+          a11yDescriptor={false}
           block={false}
           bold={false}
           forwardedComponent={
