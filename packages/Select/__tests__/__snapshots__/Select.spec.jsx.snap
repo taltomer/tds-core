@@ -507,6 +507,7 @@ exports[`Select can have an error message 1`] = `
                                   className="c2 sc-gZMcBi c2 c1"
                                 >
                                   <Text
+                                    a11yDescriptor={false}
                                     block={false}
                                     bold={true}
                                     data-testid="selectLabel"
@@ -514,6 +515,7 @@ exports[`Select can have an error message 1`] = `
                                     size="medium"
                                   >
                                     <Text__StyledText
+                                      a11yDescriptor={false}
                                       block={false}
                                       bold={true}
                                       data-testid="selectLabel"
@@ -521,6 +523,7 @@ exports[`Select can have an error message 1`] = `
                                       size="medium"
                                     >
                                       <StyledComponent
+                                        a11yDescriptor={false}
                                         block={false}
                                         bold={true}
                                         data-testid="selectLabel"
@@ -1505,6 +1508,7 @@ exports[`Select label can have a hint below 1`] = `
               className="c0 sc-gZMcBi c0 c1"
             >
               <Text
+                a11yDescriptor={false}
                 block={false}
                 bold={true}
                 data-testid="selectLabel"
@@ -1512,6 +1516,7 @@ exports[`Select label can have a hint below 1`] = `
                 size="medium"
               >
                 <Text__StyledText
+                  a11yDescriptor={false}
                   block={false}
                   bold={true}
                   data-testid="selectLabel"
@@ -1519,6 +1524,7 @@ exports[`Select label can have a hint below 1`] = `
                   size="medium"
                 >
                   <StyledComponent
+                    a11yDescriptor={false}
                     block={false}
                     bold={true}
                     data-testid="selectLabel"
@@ -1774,6 +1780,7 @@ exports[`Select label can have a short hint 1`] = `
               className="c0 sc-gZMcBi c0 c1"
             >
               <Text
+                a11yDescriptor={false}
                 block={false}
                 bold={true}
                 data-testid="selectLabel"
@@ -1781,6 +1788,7 @@ exports[`Select label can have a short hint 1`] = `
                 size="medium"
               >
                 <Text__StyledText
+                  a11yDescriptor={false}
                   block={false}
                   bold={true}
                   data-testid="selectLabel"
@@ -1788,6 +1796,7 @@ exports[`Select label can have a short hint 1`] = `
                   size="medium"
                 >
                   <StyledComponent
+                    a11yDescriptor={false}
                     block={false}
                     bold={true}
                     data-testid="selectLabel"
@@ -1839,6 +1848,7 @@ exports[`Select label can have a short hint 1`] = `
                 </Text__StyledText>
               </Text>
               <Text
+                a11yDescriptor={false}
                 block={false}
                 bold={false}
                 id="the-select_hint"
@@ -1846,6 +1856,7 @@ exports[`Select label can have a short hint 1`] = `
                 size="small"
               >
                 <Text__StyledText
+                  a11yDescriptor={false}
                   block={false}
                   bold={false}
                   id="the-select_hint"
@@ -1853,6 +1864,7 @@ exports[`Select label can have a short hint 1`] = `
                   size="small"
                 >
                   <StyledComponent
+                    a11yDescriptor={false}
                     block={false}
                     bold={false}
                     forwardedComponent={
@@ -2088,6 +2100,7 @@ exports[`Select label must have a label 1`] = `
               className="c0 sc-gZMcBi c0 c1"
             >
               <Text
+                a11yDescriptor={false}
                 block={false}
                 bold={true}
                 data-testid="selectLabel"
@@ -2095,6 +2108,7 @@ exports[`Select label must have a label 1`] = `
                 size="medium"
               >
                 <Text__StyledText
+                  a11yDescriptor={false}
                   block={false}
                   bold={true}
                   data-testid="selectLabel"
@@ -2102,6 +2116,7 @@ exports[`Select label must have a label 1`] = `
                   size="medium"
                 >
                   <StyledComponent
+                    a11yDescriptor={false}
                     block={false}
                     bold={true}
                     data-testid="selectLabel"
