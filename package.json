@@ -160,7 +160,7 @@
     "yargs": "^13.0.0"
   },
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.8.1"
   },
   "config": {
     "commitizen": {
