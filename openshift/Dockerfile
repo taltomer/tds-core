@@ -5,7 +5,7 @@
 
 
 # Start from the official Node 6 alpine image. https://hub.docker.com/_/node/
-FROM node:8
+FROM node:14.21.2
 
 # Disable update check
 ENV NO_UPDATE_NOTIFIER=true
